@@ -87,3 +87,4 @@ function resetAutoPlay() {
     autoPlay = setInterval(moveToNextSlide, 3000);
 }
 
+
